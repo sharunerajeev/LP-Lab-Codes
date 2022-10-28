@@ -1,0 +1,9 @@
+Practice questions
+
+1. Write a YACC program to check whether an input string satisfies the language
+	L = { a^m b^n | m>n, m,n >=1 }
+
+2. Write a YACC program to check the syntax of a 'for' loop in C language
+
+3. Write a YACC program to check whether an input string satisfies the language
+	L = { a^n b^n c^m d^m | m,n >= 1 }
